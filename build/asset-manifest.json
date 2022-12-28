@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/fastnews/static/css/main.e6c13ad2.css",
+    "main.js": "/fastnews/static/js/main.a1f53c63.js",
+    "static/js/787.4c026eef.chunk.js": "/fastnews/static/js/787.4c026eef.chunk.js",
+    "static/media/loading.gif": "/fastnews/static/media/loading.7e0e50df932285ffc2cf.gif",
+    "index.html": "/fastnews/index.html",
+    "main.e6c13ad2.css.map": "/fastnews/static/css/main.e6c13ad2.css.map",
+    "main.a1f53c63.js.map": "/fastnews/static/js/main.a1f53c63.js.map",
+    "787.4c026eef.chunk.js.map": "/fastnews/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a1f53c63.js"
+  ]
+}
